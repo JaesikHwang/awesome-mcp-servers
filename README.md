@@ -475,6 +475,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Pollinations](https://github.com/pollinations/model-context-protocol)** - Multimodal MCP server for generating images, audio, and text with no authentication required
 - **[Phabricator](https://github.com/baba786/phabricator-mcp-server)** - Interacting with Phabricator API
 - **[PiAPI](https://github.com/apinetwork/piapi-mcp-server)** - PiAPI MCP server makes user able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly from Claude or any other MCP-compatible apps.
+- **[PicoBerry](https://github.com/UModeler/picoberry-mcp)** - An AI 3D workspace for games, VR, and beyond. Generate 3D models and images from a text prompt or reference images, then remesh, retexture, auto-rig, animate, and export GLB/FBX/OBJ through the PicoBerry API.
 - **[PiloTY](https://github.com/yiwenlu66/PiloTY)** - AI pilot for PTY operations that enables agents to control interactive terminals with stateful sessions, SSH connections, and background process management
 - **[Playwright MCP Server](https://github.com/executeautomation/mcp-playwright)** - An MCP server using Playwright for browser automation and webscrapping
 - **[Project Manager](https://github.com/croffasia/mcp-project-manager)** - Hierarchical task management (ideas → epics → tasks) with CLI dashboard
